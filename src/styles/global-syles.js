@@ -8,7 +8,7 @@ padding: 0;
 
 body {
   ${({ theme }) => css`
-  background: ${theme.colors.mainBg};
+  /* background: ${theme.colors.secondaryColor}; */
   `}
 }
 `;
